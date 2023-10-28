@@ -50,7 +50,7 @@ let BinanceTokens={
     "chainId": 56,
     "type": "ERC20",
     "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-    "name": "Binance-Peg Ethereum Token",
+    "name": "BEP20Ethereum",
     "symbol": "ETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
